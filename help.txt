@@ -1,0 +1,12 @@
+#title Sample Command-line Tool
+This is a sample command-line tool that demonstrates the usage of options and provides examples.
+
+#opt -h, --help Displays the help information.
+-opt1 Description of option 1.
+-opt2 Description of option 2.
+
+#examples
+[tool -h] Display the help information.
+[tool -opt1 value1] Run the tool with option 1 set to value1.
+[tool -opt2 value2] Run the tool with option 2 set to value2.
+[tool -opt1 value1 -opt2 value2] Run the tool with both options set to specified values.
